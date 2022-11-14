@@ -30,4 +30,12 @@ Nessa aula aprendi:
 * Que é possível haver um grid dentro do outro.
 * calcular largura.
 
+## Aula 5: estilizando o cabeçamelho, menu e rodapé:
+
+Nessa aula aprendi:
+
+* Centralizar o conteúdo.
+* Adicionar bordas.
+* Aplicar estilo no **Hover** do mouse.
+* Adicionar símbolo de **copyright**.
 
