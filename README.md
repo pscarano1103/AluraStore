@@ -23,3 +23,11 @@ Nessa aula aprendi:
 * Utilização de shirt-hands no grid.
 
 
+## Aula 3: estilizando a seção populares:
+
+Nessa aula aprendi:
+
+* Que é possível haver um grid dentro do outro.
+* calcular largura.
+
+
